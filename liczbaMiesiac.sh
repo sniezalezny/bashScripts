@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 while [ 1 -eq 1 ]
 do
 echo "Podaj nr miesiąca w przedziale od 1 do 12"
@@ -32,4 +31,4 @@ else
 echo "Podana wartość nie jest liczbą!"
 fi
 echo "Jeśli chcesz wyjść z programu użyj CRTL + C"
-
+done
