@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 while [ 1 -eq 1 ]
 do
 echo "Podaj nr miesiąca w przedziale od 1 do 12"
