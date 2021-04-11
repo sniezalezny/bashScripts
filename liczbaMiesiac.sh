@@ -2,8 +2,8 @@
 
 while [ 1 -eq 1 ]
 do
-echo "Podaj nr miesiąca w przedziale od 1 do 12"
-read miesiac
+#echo "Podaj nr miesiąca w przedziale od 1 do 12"
+read -p "Podaj nazwę miesiąca:" miesiac
 case $miesiac in
 1) echo "$miesiac to Styczeń." ;; 
 2) echo "$miesiac to Luty." ;; 
