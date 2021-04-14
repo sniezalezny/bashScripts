@@ -1,0 +1,1 @@
+Dany jest plik, który zawiera wyłącznie liczby. Podaj liczbę minimalną, maksymalną dla każdej lini a następnie oblicz medianę całego pliku.
