@@ -1,0 +1,10 @@
+Napisz skrypt, który dla danych z plików informacje.csv i lokalizacje csv wygeneruje raport składający się z kolumn: 
+
+- imię i nazwisko
+- wiek
+- stan konta
+
+a) Raport ma obejmować 50% wpisów z pliku informacje.csv
+b) Raport ma być posortowany wg stanu konta malejąco
+c) Kolumny mają być oddzielone tabulatorem
+d) Pliki tymczasowe z których korzysta skrypt, mają zostać usunięte.
